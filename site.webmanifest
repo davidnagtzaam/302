@@ -1,0 +1,15 @@
+{
+	"short_name": "IQOS",
+	"name": "IQOS Switzerland",
+	"description": "IQOS services at your fingertips!",
+    "icons": [{
+        "src": "icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }],
+    "scope": "/",
+    "start_url": "/?overlay=0&utm_source=webapp",
+    "display": "standalone",
+	"background_color": "#eee",
+	"theme_color": "#3367D6"
+}
